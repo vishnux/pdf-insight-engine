@@ -72,3 +72,11 @@ Model Size:
 Embedding Models: Small models such as BGE-small deliver fast and relevant results while maintaining response quality.
 
 LLM: The "Gemma-1.1-7B" LLM strikes a balance between speed and accuracy.
+
+# 4. Challenges faced
+
+Developing Multilingual capabilities. 
+
+# 5. Future improvements
+
+Expanded Language Support, better models(in terms of efficiency and size), caching and parallelization
